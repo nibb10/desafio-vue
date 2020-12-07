@@ -1,0 +1,19 @@
+tr {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 8px;
+}
+
+td, th {
+  width: 150px;
+  text-align: left;
+  padding: 8px;
+}
+
+th{
+  background-color: aquamarine;
+}
+
+table{
+  width: 100%;
+}
